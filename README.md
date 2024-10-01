@@ -1,4 +1,4 @@
-# Hey, I'm Diogo Vasconcelos!
+## Hey, I'm Diogo Vasconcelos!
 
 
 👀 I’m interested in anything involving computer science and AI. <br>
