@@ -4,13 +4,13 @@
 👀 I’m interested in anything involving computer science and AI. <br>
 🌱 I’m currently learning Fullstack Dev. <br>
 💞️ I’m looking to collaborate on AI problems. <br>
-📫 Email-me anytime 😅
+📫 Email-me anytime! 😅
 
 <div align="center">
   <a href="https://github.com/diogoVaasconcelos">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diogoVaasconcelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoVaasconcelos&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diogoVaasconcelos&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoVaasconcelos&layout=compact&langs_count=7&theme=light"/>
+  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
